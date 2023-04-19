@@ -8,3 +8,5 @@
 
 
 通过vt控制码把光标隐藏了
+
+可以在linux下跑，编译连接：gcc russia_square.c -o russia_square -Wall -pthread
